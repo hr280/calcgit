@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(129, 77, 212);
+}
+*{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.wrap{
+    width: 400px;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+    background-color: darkgray;
+}
+input[type=text]
+{
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+input[type=Button]
+{
+    width: 89px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+#del{
+    width: 100%;
+}
