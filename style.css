@@ -1,3 +1,10 @@
+.title{
+    text-align: center;
+    margin: auto;
+    color: #e0904b;
+    font-weight: 400;
+    font-size: 25px;
+}
 body{
     background-color: rgb(129, 77, 212);
 }
